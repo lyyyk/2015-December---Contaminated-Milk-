@@ -146,23 +146,3 @@ int main() {
 }
 
 
-
-
-
-  // for(int i = 0; i < d; i++) {
-  //   for(int j = 0; j < d; j++) {
-  //     //make sure not comparing same person
-  //     if(i != j) {
-  //       for(int k = 0; k < people[i].milkTypes.size(); k++) {
-  //         for(int l = 0; l < people[j].milkTypes.size(); l++) {
-  //           if(people[i].milkTypes[k] == people[j].milkTypes[l] && people[i].timesD[k] < people[i].timeS && people[j].timesD[l] < people[i].timeS){
-  //             possibleContMilk.push_back(people[i].milkTypes[k]);
-  //             break;
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // }
-
-
