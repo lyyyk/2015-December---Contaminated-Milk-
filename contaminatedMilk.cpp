@@ -28,9 +28,9 @@ int main() {
         found = true;
         break;
       }
-      //if not, create new person 
-    }
 
+    }
+    //if the person is not found, create a new person and save info into the new person
     if(!found){
         Person temp;
         temp.id = id;
